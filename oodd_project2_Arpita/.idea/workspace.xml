@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fbf7eb-9331-4deb-95d0-b4e3d8c8abf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/myapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oodd_project2_Arpita.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oodd_project2_Arpita.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/app/controllers/users_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/db/migrate/20180921181617_create_houses.rb" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/db/migrate/20180921181617_create_houses.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/db/seeds.rb" afterDir="false" />
-    </list>
+    <list default="true" id="39fbf7eb-9331-4deb-95d0-b4e3d8c8abf2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,12 +422,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538356396546</updated>
-      <workItem from="1538356398100" duration="8873000" />
+      <workItem from="1538356398100" duration="9472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8873000" />
+    <option name="totallyTimeSpent" value="9472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
