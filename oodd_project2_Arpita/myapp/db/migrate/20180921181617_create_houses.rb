@@ -2,7 +2,7 @@ class CreateHouses < ActiveRecord::Migration[5.1]
   def change
     create_table :houses do |t|
       t.column :location, :string, :null => false , :presence => true
-      t.column :square_footage, :string, :null => false , :presence => true
+      t.column :square_footage, :string, :presence => true
       t.column :year_built, :string, :null => false , :presence => true
       t.column :style, :string, :null => false , :presence => true
       t.column :price, :string, :null => false , :presence => true

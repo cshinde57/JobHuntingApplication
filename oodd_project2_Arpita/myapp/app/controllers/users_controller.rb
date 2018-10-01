@@ -57,9 +57,6 @@ class UsersController < ApplicationController
         else
           redirect_back fallback_location: {action: "sign_in"}
         end
-        puts  @passwordInDB[0]
-        puts @password
-
       end
     end
   end
